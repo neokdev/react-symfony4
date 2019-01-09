@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47fa9e43-c8d8-4f74-bdc1-acf4417df79e" name="Default Changelist" comment="" />
+    <list default="true" id="47fa9e43-c8d8-4f74-bdc1-acf4417df79e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +97,11 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -185,6 +191,7 @@
         <option value="$PROJECT_DIR$/src/Controller/RepLogController.php" />
         <option value="$PROJECT_DIR$/src/EventSubscriber/ApiCsrfValidationSubscriber.php" />
         <option value="$PROJECT_DIR$/assets/js/api/rep_log_api.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -472,15 +479,16 @@
       <workItem from="1546879494312" duration="611000" />
       <workItem from="1546881913007" duration="37000" />
       <workItem from="1547066137030" duration="2660000" />
-      <workItem from="1547068821553" duration="3847000" />
+      <workItem from="1547068821553" duration="4108000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105908000" />
+    <option name="totallyTimeSpent" value="106169000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="993" y="27" width="927" height="1053" extended-state="4" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24404086" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -808,7 +816,11 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
