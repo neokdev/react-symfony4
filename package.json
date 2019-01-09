@@ -1,0 +1,44 @@
+{
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/plugin-proposal-class-properties": "^7.2.3",
+    "@babel/preset-react": "7.0.0",
+    "@symfony/webpack-encore": "^0.22.4",
+    "babel-eslint": "8.2.1",
+    "bootstrap": "^3",
+    "eslint": "^5.12.0",
+    "eslint-plugin-react": "^7.12.3",
+    "font-awesome": "4",
+    "global": "^4.3.2",
+    "jquery": "^3.3.1",
+    "node-sass": "^4.11.0",
+    "prop-types": "^15.6.2",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "sass-loader": "7.0.1",
+    "sweetalert2": "^7.33.1",
+    "webpack-notifier": "^1.6.0"
+  },
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev-server": "encore dev-server --disable-host-check",
+    "dev": "encore dev",
+    "watch": "encore dev --watch",
+    "build": "encore production --progress"
+  },
+  "dependencies": {
+    "acorn": "^6.0.5",
+    "babel-plugin-transform-react-remove-prop-types": "^0.4.21",
+    "promise-polyfill": "8.1.0",
+    "whatwg-fetch": "^3.0.0"
+  },
+  "name": "encore",
+  "version": "1.0.0",
+  "main": ".eslintrc.js",
+  "directories": {
+    "test": "tests"
+  },
+  "author": "neok <neokdev@gmail.com>",
+  "description": ""
+}
