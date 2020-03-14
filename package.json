@@ -28,7 +28,7 @@
     "build": "encore production --progress"
   },
   "dependencies": {
-    "acorn": "^6.0.5",
+    "acorn": "^6.4.1",
     "babel-plugin-transform-react-remove-prop-types": "^0.4.21",
     "promise-polyfill": "8.1.0",
     "whatwg-fetch": "^3.0.0"
