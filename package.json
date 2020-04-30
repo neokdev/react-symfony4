@@ -10,7 +10,7 @@
     "eslint-plugin-react": "^7.12.3",
     "font-awesome": "4",
     "global": "^4.3.2",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "node-sass": "^4.11.0",
     "prop-types": "^15.6.2",
     "react": "^16.7.0",
